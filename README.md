@@ -7,5 +7,5 @@ The following metrics were included in the analysis: <br>
 * Overall calls answered/abandoned <br>
 * Calls by time <br>
 * Average speed of answer <br> <br>
-![image](https://github.com/Sha95544/pwc-Data-Analytics-Remote-Internship/assets/62758405/1b6595fc-b4b4-4043-b5ec-36a80bb13539)
+![image](https://github.com/user-attachments/assets/d5a645af-cc9e-4749-9876-663603f14910)
 
