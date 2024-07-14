@@ -6,6 +6,7 @@ The following metrics were included in the analysis: <br>
 * Overall customer satisfaction <br>
 * Overall calls answered/abandoned <br>
 * Calls by time <br>
+* Agent Performance quadrant
 * Average speed of answer <br> <br>
 ![image](https://github.com/user-attachments/assets/9354c21f-3793-4c52-85cb-f5031deb993d)
 
